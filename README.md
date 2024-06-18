@@ -1,2 +1,3 @@
-# Projeto Integrador filmes
- Projeto integrador ADS Unimar : HTML, CSS, PHP d MySQL
+Projeto integrador ADS - unimar 2024. 
+•	Implementação de HTML,CSS, PHP e banco de dados MySQL, com CRUD. 
+•	Projeto: Cadastro de filmes. 
